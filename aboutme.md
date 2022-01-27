@@ -46,8 +46,6 @@ I love gardening and taking care of plants, from big trees to flowers and tropic
  
 Bicicle repair: (a long story, yet to come)
 
-Wood:
-
-Steel:
+Wood: you can have a look at [this](https://martinozanetti.github.io/woodworks/) page, where you will find some useless and some useful things I made from wood and other materials.
 
 Drawing:
