@@ -15,7 +15,7 @@ author: Martino Zanetti
 
 navbar-links:
   About Me: "aboutme"
-  Woodworks: "woodworks"
+# Woodworks: "woodworks"
   External links:
     - Circolo Lato B Milano: "https://www.latobmilano.it"
     - Wikipedia: "https://www.wikipedia.org/"
