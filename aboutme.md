@@ -33,10 +33,14 @@ I began practising drums during elementary school, then i turned to guitar. I at
 Between 2009 and 2011 I was part of the [Coro](https://www.laverdi.org/it/coro) delle Voci Bianche of the Synphonic Orchestra of La Verdi; in this context I was a singer in _La Carmen_ representation in Muscat, Oman.
 
 # Travelling
-  
-Solo bike travels: (long stories, yet to come)
+
+I really enjoy bike solo travelling. In the years of universuty studies I rode through the North of France and Spain, climbed over the Pyrenees and the Alps from Bozen to Prague. I spent beautiful days in Tuscany, Lazio and Umbria in summer 2021.
+[Here](https://martinozanetti.github.io/bike-travels/) you can find some pictures and extracts from my "logbooks".
 
 # Gardening
+
+I love gardening and taking care of plants, from big trees to flowers and tropical plants.
+[Here](https://github.com/martinozanetti/martinozanetti.github.io/assets/videos/peperomia.mp4)'s a stupid video I made during spring 2020 quarantine.
 
 # DIY: reuse and repair philosophy; creative attitude
  
