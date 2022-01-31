@@ -6,7 +6,7 @@ thumbnail-img: assets/img/MZ_thumb.jpg
 
 # Martino Zanetti
 
-<img border="0" src="assets/img/MZ2.jpg" alt="MZ" title="MartinoZ" width="280" align="left"/>
+<img border="10" src="assets/img/MZ2.jpg" alt="MZ" title="MartinoZ" width="300" align="left"/>
 
 **University of Milan (UniMi)**  
 *Science and Technology*  
