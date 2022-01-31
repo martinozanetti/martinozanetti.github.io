@@ -4,7 +4,7 @@ title: ""
 thumbnail-img: assets/img/MZ_thumb.jpg
 ---
 
-<img src="assets/img/MZ2.jpg" alt="MZ" title="MartinoZ" width="320" align="left"/>
+<img hspace=20 src="assets/img/MZ2.jpg" alt="MZ" title="MartinoZ" width="320" align="left"/>
 
 **University of Milan (UniMi)**  
 *Science and Technology*  
