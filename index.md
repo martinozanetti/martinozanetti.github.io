@@ -5,15 +5,17 @@ thumbnail-img: assets/img/MZ_thumb.jpg
 
 # Martino Zanetti
 
+<img border="0" src="assets/img/MZ2.jpg" alt="MZ" title="MartinoZ" width="280" align="left"/>
+
 **University of Milan (UniMi)**  
 *Science and Technology*  
+Physics department,  
 Via celoria 26  
 [martino.zanetti@gmail.com](mailto:martino.zanetti@gmail.com)  
 [martino.zanetti@studenti.unimi.it](mailto:martino.zanetti@studenti.unimi.it)
 
-![MZ](assets/img/MZ_thumb.jpg)
-
-
+<br/>
+  
 I am a physicist at the University of Milan and I am currently studying Environmental Physics and Plasma Physics.
 
 
