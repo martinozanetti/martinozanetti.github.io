@@ -5,18 +5,13 @@ title: Martino Zanetti
 
 # Martino Zanetti
 
-**University of Milan (UniMi)** 
-Science and Technology
-Via celoria 26
-
+**University of Milan (UniMi)**  
+*Science and Technology*  
+Via celoria 26  
 [martino.zanetti@gmail.com](mailto:martino.zanetti@gmail.com)
 
-I am a physicist at the University of Milan and I am currently doing nothing.
 
-## Research interests
+I am a physicist at the University of Milan and I am currently studying Environmental Physics and Plasma Physics.
 
-### This
-
-### And this
 
 If you want to know more about me or read my **CV** see this [page](https://martinozanetti.github.io/aboutme/).
