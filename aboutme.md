@@ -12,7 +12,7 @@ If you want to know more about my experiences not related to professional life, 
 
 # Association: my role in Circolo Arci Lato B - Milano
 
-I'm an active member of [Lato B](www.latobmilano.it) since 2015. I've been part of the executive committee from january 2019 till october 2021. I'm now responsible for maintenance works and for the theatre shows.
+I'm an active member of [Lato B](https://www.latobmilano.it/) since 2015. I've been part of the executive committee from january 2019 till october 2021. I'm now responsible for maintenance works and for the theatre shows.
 
 # Sports
 
