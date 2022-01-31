@@ -1,8 +1,8 @@
 ---
 ---
 
-30 gennaio 2022  
-*Auguri, Martino!*  
+*30 gennaio 2022*  
+**Auguri, Martino!**  
   
 Martino, oggi ben ventiquattro  
 anni ben spesi hai messo nel sacco!  
@@ -25,7 +25,7 @@ ci furon ore da volontario
 che io, da nonna, parecchio apprezzo,   
 in quanto beni che non han prezzo!  
 Perciò, Martino, mio caro e terzo bel nipotino,   
-concreti auguri ben ventiquattro, 
+concreti auguri ben ventiquattro,  
 son qui da me in piccolo pacco.  
   
                           Nonna S.
