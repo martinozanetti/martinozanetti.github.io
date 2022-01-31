@@ -24,8 +24,10 @@ E pur nel quotidiano tuo diario
 ci furon ore da volontario  
 che io, da nonna, parecchio apprezzo,   
 in quanto beni che non han prezzo!  
-Perciò, Martino, mio caro e terzo bel nipotino,   
+Perciò, Martino, mio caro e terzo[^1] bel nipotino,   
 concreti auguri ben ventiquattro,  
 son qui da me in piccolo pacco.  
 
-                          Nonna S.
+<p style="text-align:right"> Nonna S. </p>
+
+[^1]: In realtà sono il quarto.
