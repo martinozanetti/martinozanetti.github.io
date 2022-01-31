@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Martino Zanetti
 ---
 
 # Martino Zanetti
