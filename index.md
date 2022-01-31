@@ -11,6 +11,8 @@ Via celoria 26
 [martino.zanetti@gmail.com](mailto:martino.zanetti@gmail.com)  
 [martino.zanetti@studenti.unimi.it](mailto:martino.zanetti@studenti.unimi.it)
 
+![MZ](https://github.com/martinozanetti/martinozanetti.github.io/edit/master/assets/img/MZ_thumb.jpg)
+
 
 I am a physicist at the University of Milan and I am currently studying Environmental Physics and Plasma Physics.
 
