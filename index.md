@@ -1,6 +1,6 @@
 ---
 layout: page
-thumbnail-img: assets/img/me.jpg
+thumbnail-img: assets/img/MZ_thumb.jpg
 ---
 
 # Martino Zanetti
