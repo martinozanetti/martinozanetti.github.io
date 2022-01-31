@@ -1,5 +1,6 @@
 ---
 layout: page
+title: ""
 thumbnail-img: assets/img/MZ_thumb.jpg
 ---
 
