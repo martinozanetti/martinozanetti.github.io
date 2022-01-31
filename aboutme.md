@@ -52,4 +52,4 @@ Drawing:
 
 # My grandmother's point of view
 
-[Here](https://martinozanetti.github.io/vispateresa/)'s a nice little poem my granmother wrote for my 24^{st} birthday.
+[Here](https://martinozanetti.github.io/vispateresa/)'s a nice little poem my granmother wrote for my 24th birthday.
