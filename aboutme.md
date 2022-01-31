@@ -49,3 +49,7 @@ Bicicle repair: (a long story, yet to come)
 Wood: you can have a look at [this](https://martinozanetti.github.io/woodworks/) page, where you will find some useless and some useful things I made from wood and other materials.
 
 Drawing:
+
+# My grandmother's point of view
+
+[Here](https://martinozanetti.github.io/vispateresa/)'s a nice little poem my granmother wrote for my 24^{st} birthday.
