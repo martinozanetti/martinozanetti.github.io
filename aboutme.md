@@ -16,7 +16,7 @@ I'm an active member of [Lato B](https://www.latobmilano.it/) since 2015. I've b
 
 # Sports
 
-I've been practising agonistic Karate from 2005 to 2018 at [Yama Karate Club - Milano](https://www.facebook.com/yamakarateclub). I've been part of the Italian National Team for two years, during which I participated to the [WSKA Championship in Treviso](http://www.wska-karate.org/2017-results/).
+I've been practising agonistic Karate from 2005 to 2018 at [Yama Karate Club - Milano](https://www.facebook.com/yamakarateclub). I've been part of the Italian National Team for two years, during which I participated to the [WSKA World Championship in Treviso](http://www.wska-karate.org/2017-results/).
 
 Since i was young I practised also some amateur sprts like alpine ski, nordic ski, biking, windsurfing and rock climbing.
 
