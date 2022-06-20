@@ -15,6 +15,11 @@ Via celoria 26
 [martino.zanetti@gmail.com](mailto:martino.zanetti@gmail.com)  
 [martino.zanetti@studenti.unimi.it](mailto:martino.zanetti@studenti.unimi.it)
   
-I am a physicist at the University of Milan and I am currently studying Environmental Physics and Plasma Physics.
+I am a physicist at the University of Milan and I am currently studying Plasma Physics. I aim to work in the field of superconductors and accelerators physics.
 
-If you want to know more about me or read my **CV**, see this [page](https://martinozanetti.github.io/aboutme/).
+Other fields of interest are electronics, laser physics, computer programming and processes automation,
+Monte Carlo methods applied to statistical physics and physics of complex systems, environmental
+physics and energy supply issues, nuclear fusion.
+Since I am a practical person, during my studies (and life in general) I focused on laboratories and know-how skills training.
+
+If you want to know more about me or read my **CV**, visit [this page](https://martinozanetti.github.io/aboutme/).
