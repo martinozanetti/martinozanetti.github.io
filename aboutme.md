@@ -6,19 +6,19 @@ subtitle: Here you can find some information about me and my main interests.
 
 # My CV
 
-Here you can find my [Curriculum Vitae](https://github.com/martinozanetti/martinozanetti.github.io/raw/master/assets/docs/MartinoZanetti-CV.pdf).
+Here you can find my [Curriculum Vitae](https://github.com/martinozanetti/martinozanetti.github.io/blob/7a022338e15f15ccd74246b2aac830684c8a12ef/assets/docs/MartinoZanetti%E2%80%93CV.pdf).
 
 If you want to know more about my experiences not related to professional life, you can go ahead through this post.
 
 # Association: my role in Circolo Arci Lato B - Milano
 
-I'm an active member of [Lato B](https://www.latobmilano.it/) since 2015. I've been part of the executive committee from january 2019 till october 2021. I'm now responsible for maintenance works and for the theatre shows.
+I'm an active member of [Lato B](https://www.latobmilano.it/) since 2015. I've been part of the executive committee from january 2019 till october 2021. I'm now responsible for maintenance works and for the theatre shows. Under my leadership the cycle of theatre shows project received a large funding from [Chiesa Valdese](https://www.ottopermillevaldese.org/). I am quite proud of this success.
 
 # Sports
 
-I've been practising agonistic Karate from 2005 to 2018 at [Yama Karate Club - Milano](https://www.facebook.com/yamakarateclub). I've been part of the Italian National Team for two years, during which I participated to the [WSKA World Championship in Treviso](http://www.wska-karate.org/2017-results/).
+I've been practising agonistic Karate from 2005 to 2018 at [Yama Karate Club - Milano](https://www.facebook.com/yamakarateclub). I've been part of the Italian National Team for two years, during which I participated to the [WSKA World Championship in Treviso](http://www.wska-karate.org/2017-results/). In 2018 I was first in team Kata speciality, in the role of captain.
 
-Since i was young I practised also some amateur sprts like alpine ski, nordic ski, biking, windsurfing and rock climbing.
+Since i was young I practise also some amateur sprts like alpine ski, nordic ski, biking, windsurfing and rock climbing.
 
 # Mountaineering and high altitude alpinism
 
