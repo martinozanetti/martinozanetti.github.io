@@ -35,7 +35,7 @@ Between 2009 and 2011 I was part of the [Coro](https://www.laverdi.org/it/coro) 
 # Travelling
 
 I really enjoy bike solo travelling. In the years of universuty studies I rode through the North of France and Spain, climbed over the Pyrenees and the Alps from Bozen to Prague. I spent beautiful days in Tuscany, Lazio and Umbria in summer 2021.
-[Here](https://martinozanetti.github.io/bike-travels/) you can find some pictures and extracts from my "logbooks".
+[Here](https://martinozanetti.github.io/my_pages/bike-travels/) you can find some pictures and extracts from my "logbooks".
 
 # Gardening
 
