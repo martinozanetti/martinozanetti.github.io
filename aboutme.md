@@ -46,10 +46,10 @@ I love gardening and taking care of plants, from big trees to flowers and tropic
  
 Bicicle repair: (a long story, yet to come)
 
-Wood: you can have a look at [this](https://martinozanetti.github.io/woodworks/) page, where you will find some useless and some useful things I made from wood and other materials.
+Wood: you can have a look at [this](https://martinozanetti.github.io/my_pages/woodworks/) page, where you will find some useless and some useful things I made from wood and other materials.
 
 Drawing:
 
 # My grandmother's point of view
 
-[Here](https://martinozanetti.github.io/vispateresa/)'s a nice little poem my grandmother wrote for my 24th birthday.
+[Here](https://martinozanetti.github.io/my_pages/vispateresa/)'s a nice little poem my grandmother wrote for my 24th birthday.
