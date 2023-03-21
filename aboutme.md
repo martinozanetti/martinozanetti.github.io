@@ -7,7 +7,7 @@ subtitle: Here you can find some information about me and my main interests.
 # My CV
 
 Here you can find my 
-<a href="https://github.com/martinozanetti/martinozanetti.github.io/blob/b93ad0a76ececb4543042e8eaa69eadbf26d6334/assets/docs/MartinoZanetti-CV.pdf" download>Curriculum Vitae</a>.
+<a href="https://github.com/martinozanetti/martinozanetti.github.io/raw/b93ad0a76ececb4543042e8eaa69eadbf26d6334/assets/docs/MartinoZanetti-CV.pdf" download>Curriculum Vitae</a>.
 
 If you want to know more about my experiences not related to professional life, you can go ahead through this post.
 
