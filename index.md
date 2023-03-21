@@ -15,7 +15,7 @@ Via celoria 18
 [martino.zanetti@gmail.com](mailto:martino.zanetti@gmail.com)  
 [martino.zanetti@studenti.unimi.it](mailto:martino.zanetti@studenti.unimi.it)
   
-I am a physicist at the University of Milan and I am currently studying Plasma Physics. I aim to work in the field of superconductors and accelerators physics.
+I am a physicist at the University of Milan and I am currently studying Plasma Physics. I aim to work in the field of cold plasmas and traps.
 
 Other fields of interest are electronics, laser physics, computer programming and processes automation,
 Monte Carlo methods applied to statistical physics and physics of complex systems, environmental
