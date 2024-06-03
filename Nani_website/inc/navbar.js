@@ -1,5 +1,5 @@
 document.write('<!-- to hide button on small screens, add w3-hide-small -->');
-document.write('<div class="w3-top" style="color: #ffcc0081;">');
+document.write('<div class="w3-top" style="color: rgb(255, 255, 255);">');
 document.write('    <div class="w3-bar w3-black w3-card">');
 document.write('        <a href="index.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small w3-hide-medium">');
 document.write('            <img src="img/logotrasp.png" style="height:25px; margin-bottom: 0px; margin-top: -4px">');

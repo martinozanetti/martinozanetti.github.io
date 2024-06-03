@@ -7,19 +7,20 @@
 /* declare some variables */
 :root {
     --myYellow: #ffca00;
+    --myBlue: rgb(179, 240, 255);
     --myRed: #b30000;
     --white: #ffffff;
+    --bgCol: rgba(255, 255, 255, 0.5);
 }
 
 html {
     box-sizing: border-box;
-
     height: 100%;
     text-align: center;
     color: black;
 
-    background-image: url('../img/sfondo.png');
-    /*background-color: var(--myRed);*/
+    /*background-image: url('../img/sfondo.png');*/
+    background-color: var(--bgCol);
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
@@ -38,6 +39,7 @@ p {
     font-size: 22px;
     font-family: myFont;
     letter-spacing: 0.15ch;
+    background-color: var(--bgCol);
 }
 
 ul {
@@ -48,6 +50,7 @@ ul {
     text-justify: inter-word;
     font-family: myFont;
     font-size: 22px;
+    background-color: var(--bgCol);
 }
 
 *,
@@ -110,7 +113,7 @@ a {
 }
 
 .w3-bar a {
-    color: var(--myYellow);
+    color: var(--myBlue);
     font-weight: bold;
     font-family: myFont;
 }
@@ -283,26 +286,32 @@ html {
 
 h1 {
     font-size: 60px;
+    background-color: var(--bgCol);
 }
 
 h2 {
     font-size: 45px;
+    background-color: var(--bgCol);
 }
 
 h3 {
     font-size: 37px;
+    background-color: var(--bgCol);
 }
 
 h4 {
-    font-size: 32px
+    font-size: 32px;
+    background-color: var(--bgCol);
 }
 
 h5 {
-    font-size: 29px
+    font-size: 29px;
+    background-color: var(--bgCol);
 }
 
 h6 {
-    font-size: 27px
+    font-size: 27px;
+    background-color: var(--bgCol);
 }
 
 .w3-serif {
