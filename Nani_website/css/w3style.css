@@ -6,7 +6,7 @@
 
 /* declare some variables */
 :root {
-    --myYellow: #ffca00;
+    --myYellow: rgb(179, 240, 255);
     --myBlue: rgb(179, 240, 255);
     --myRed: #b30000;
     --white: #ffffff;
