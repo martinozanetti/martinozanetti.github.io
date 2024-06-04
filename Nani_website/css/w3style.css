@@ -7,7 +7,7 @@
 /* declare some variables */
 :root {
     --myYellow: #ffca00;
-    --myBlue: rgb(179, 240, 255);
+    --myBlue: rgb(139, 218, 255);
     --myRed: #b30000;
     --white: #ffffff;
     --bgCol: rgba(255, 255, 255, 0.5);
@@ -428,7 +428,7 @@ a {
     vertical-align: middle;
     overflow: hidden;
     text-decoration: none;
-    color: #ffca00;
+    color: var(--myBlue);
     font-weight: bold;
     background-color: inherit;
     text-align: center;
