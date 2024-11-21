@@ -6,7 +6,7 @@ subtitle: Here you can find some information about me and my main interests.
 
 # My CV
 
-Here you can find my [Curriculum Vitae](https://www.overleaf.com/download/project/6418c6501bdcf29979207a05/build/1934f1ec905-6d8b9a15678623cd/output/output.pdf?compileGroup=standard&clsiserverid=clsi-pre-emp-n2d-b-f-29zn&enable_pdf_caching=true&popupDownload=true).
+Here you can find my [Curriculum Vitae](assets/docs/Zanetti_Martino_CV.pdf).
 
 If you want to know more about my experiences not related to professional life, you can go ahead through this post.
 
