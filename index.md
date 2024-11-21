@@ -8,18 +8,16 @@ thumbnail-img: assets/img/MZ_thumb.jpg
 
 <img hspace=20 src="assets/img/MZ2.jpg" alt="MZ" title="MartinoZ" width="320" align="left"/>
 
-**University of Milan (UniMi)**  
-*Science and Technology*  
-Physics department,  
-Via celoria 18  
+**University of Vienna**, Physics department
+**Max Perutz Labs**, Campus-Vienna-Biocenter 5  
 [martino.zanetti@gmail.com](mailto:martino.zanetti@gmail.com)  
-[martino.zanetti@studenti.unimi.it](mailto:martino.zanetti@studenti.unimi.it)
+[martino.zanetti@univie.ac.at](mailto:martino.zanetti@univie.ac.at)
   
-I am a physicist at the University of Milan and I am currently studying Plasma Physics. I aim to work in the field of cold plasmas and traps.
+I am a PhD student at the University of Vienna and I am currently working on electron wavefront shaping with light in free space, using a modified Scanning Electron Microscope. 
 
 Other fields of interest are electronics, laser physics, computer programming and processes automation,
 Monte Carlo methods applied to statistical physics and physics of complex systems, environmental
 physics and energy supply issues, nuclear fusion.
-Since I am a practical person, during my studies (and life in general) I focused on laboratories and know-how skills training.
+Since I am a practical person, I usually focus on understanding and using lab technology and I always try to get better with know-how and DIY skills.
 
-If you want to know more about me or read my **CV**, visit [this page](https://martinozanetti.github.io/aboutme/).
+If you want to know more about me or read my **CV**, please visit [this page](https://martinozanetti.github.io/aboutme/).
