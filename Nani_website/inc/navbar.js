@@ -6,7 +6,7 @@ document.write('            <img src="img/logotrasp.png" style="height:25px; mar
 document.write('            HOME</a>');
 document.write('        <a href="storia.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small w3-hide-medium">STORIA</a>');
 document.write('        <a href="linkutili.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small w3-hide-medium">LINK ESTERNI</a>');
-document.write('        <a href="feste.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small w3-hide-medium">FESTE IN CASCINA</a>');
+document.write('        <a href="feste_en.html" class="w3-bar-item w3-button w3-padding-large w3-hide-small w3-hide-medium">FESTE IN CASCINA</a>');
 document.write('');
 document.write('        <div class="w3-dropdown-hover w3-hide-large ">');
 document.write('            <button class="w3-padding-large w3-button" title="More">&#9776 <i class="fa fa-caret-down"></i></button>');
@@ -14,7 +14,7 @@ document.write('            <div class="w3-dropdown-content w3-bar-block w3-card
 document.write('                <a href="index.html" class="w3-bar-item w3-button">HOME</a>');
 document.write('                <a href="storia.html" class="w3-bar-item w3-button ">STORIA</a>');
 document.write('                <a href="linkutili.html" class="w3-bar-item w3-button">LINK ESTERNI</a>');
-document.write('                <a href="feste.html" class="w3-bar-item w3-button">FESTE IN CASCINA</a>');
+document.write('                <a href="feste_en.html" class="w3-bar-item w3-button">FESTE IN CASCINA</a>');
 document.write('            </div>');
 document.write('        </div>');
 document.write('    </div>');
