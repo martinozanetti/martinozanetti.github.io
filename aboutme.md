@@ -12,17 +12,17 @@ If you want to know more about my experiences not related to professional life, 
 
 # Association: my role in Circolo Arci Lato B - Milano
 
-I'm an active member of [Lato B](https://www.latobmilano.it/) since 2015. I've been part of the executive committee from january 2019 till october 2021. I'm now responsible for maintenance works and for the theatre shows. Under my leadership the cycle of theatre shows project received a large funding from [Chiesa Valdese](https://www.ottopermillevaldese.org/). I am quite proud of this success.
+I've an active member of [Lato B](https://www.latobmilano.it/) since 2015 until 2023, when I moved to Vienna. I've been part of the executive committee from january 2019 till october 2021. I've been then responsible for maintenance works and for the theatre shows. Under my leadership the cycle of theatre shows project received funding from [Chiesa Valdese](https://www.ottopermillevaldese.org/), for the first time, and now the project is still running and receiving funding every year.
 
 # Sports
 
-I've been practising agonistic Karate from 2005 to 2018 at [Yama Karate Club - Milano](https://www.facebook.com/yamakarateclub). I've been part of the Italian National Team for two years, during which I participated to the [WSKA World Championship in Treviso](http://www.wska-karate.org/2017-results/). In 2018 I was first in team Kata speciality, in the role of captain.
+Since i was young I practise also some amateur sprts like alpinism, trad and sport rock climbing, alpine ski, nordic ski, biking, windsurfing and sailing.
 
-Since i was young I practise also some amateur sprts like alpine ski, nordic ski, biking, windsurfing and rock climbing.
+I've been practising agonistic Karate from 2005 to 2018 at [Yama Karate Club - Milano](https://www.facebook.com/yamakarateclub). I've been part of the Italian National Team for two years, during which I participated to the [WSKA World Championship in Treviso](http://www.wska-karate.org/2017-results/). In 2018 I was first in team Kata speciality, in the role of captain.
 
 # Mountaineering and high altitude alpinism
 
-I started mountaneering with my family and cougins when I was young. Around 2014 my brother and I began doing some "soft - alpinism". Some years later he had his first course, and since then our passion for high altitude alpinism exploded. Most of our alpinistic adventures appened in [Parco Nazionale del Gran Paradiso](http://www.pngp.it/), to which we are profoundly attached.
+I started mountaneering with my family and cougins when I was young. Around 2014 my brother and I began doing some "soft - alpinism". Some years later he took a first course with the Club Alpino Italiano, and since then our passion for high altitude alpinism exploded. Most of our alpinistic adventures appened in [Parco Nazionale del Gran Paradiso](http://www.pngp.it/), to which we are profoundly attached.
 
 Also through these experiences we developed an unconditional love for animals and wild environments.
 
