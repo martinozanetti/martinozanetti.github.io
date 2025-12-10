@@ -17,6 +17,7 @@ navbar-links:
   About Me: "aboutme"
 # Woodworks: "woodworks"
   External links:
+    - QCEM: "https://www.qcem.info"
     - Circolo Lato B Milano: "https://www.latobmilano.it"
     - Wikipedia: "https://www.wikipedia.org/"
 
